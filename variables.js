@@ -12,8 +12,8 @@ name = 'George';
 petDog = 'Zepplin';
 favoriteFood = 'tacos';
 
-age = '35';
-favoriteNumber = '17';
+age = 35;
+favoriteNumber = 17;
 
 test = 1 < 3;
 
